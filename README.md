@@ -10,11 +10,16 @@
 
 ### Habilidades
 <div style="display: inline_block"><br/>
+  
 <img align="center" alt=python1 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
 <img align="center" alt=python1 src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
 <img align="center" alt=python1 src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
+
   
-<div>
+</div>
 
+<!-- GIF -->
 
-![sei la](https://github.com/user-attachments/assets/235209f7-3431-4cf1-a4ef-08e59cdfab49)
+<p align="left">
+  <img align="center" src="https://github.com/user-attachments/assets/235209f7-3431-4cf1-a4ef-08e59cdfab49" alt="Imagem">
+</p>
