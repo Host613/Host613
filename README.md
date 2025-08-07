@@ -14,3 +14,8 @@
 <img align="center" alt=python1 src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
 <img align="center" alt=python1 src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
 <div>
+
+
+<div>
+  <img align="center" alt=gif1 src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fm0q1kaipo4v81.gif%3Fwidth%3D1920%26format%3Dmp4%26s%3D749c6e3b78152229d95ce2377cb55460c6d6cc74"
+</div>
