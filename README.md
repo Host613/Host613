@@ -15,5 +15,4 @@
 <img align="center" alt=python1 src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
 <div>
 
-
-  <video src="(https://github.com/Host613/Host613/issues/1#issue-3302134904)" controls></video>
+<video src="(https://github.com/Host613/Host613/issues/1#issue-3302134904)" controls></video>
