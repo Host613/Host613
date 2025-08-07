@@ -13,6 +13,8 @@
 <img align="center" alt=python1 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
 <img align="center" alt=python1 src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
 <img align="center" alt=python1 src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
+  
 <div>
 
-![sei la](https://github.com/Host613/Host613/issues/2#issue-3302154377)
+
+![sei la](https://github.com/user-attachments/assets/235209f7-3431-4cf1-a4ef-08e59cdfab49)
